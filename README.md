@@ -30,7 +30,7 @@ The solution is divided into the following sections:
 - Model building and evaluation
 
 
-## Conclusions
+## Conclusion
 
 ##### Optimal alphas
 
